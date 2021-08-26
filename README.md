@@ -6,4 +6,4 @@ A detailed overview of the design and creation of our bronze-medal robots, the T
 - <a href="https://github.com/tarakong01/robot-summer-toucans/blob/main/troubleshooting.md">Troubleshooting</a>
 - <a href="https://github.com/tarakong01/robot-summer-toucans/blob/main/duplication-triplication-process.md">The duplication and triplication process (and issues)</a>
 - <a href="https://github.com/tarakong01/robot-summer-toucans/blob/main/skycrane.md">The skycrane</a>
-- <a href="https://github.com/tarakong01/robot-summer-toucans/blob/main/competition-day.md">COMPETITION DAY</a>
+- <a href="https://github.com/tarakong01/robot-summer-toucans/blob/main/competition-day.md">Competition day!</a>
