@@ -1,4 +1,6 @@
 # The Toucans (ENPH 253 Robot Summer)
+Robot Design Report: https://docs.google.com/document/d/1vTsldGkzDzCHYdi0xjIpvOi8mBfRF2pZt_rbFB2SZJU/edit?usp=sharing
+
 A detailed overview of the design and creation of our bronze-medal robots, the Toucans
 - <a href="https://github.com/tarakong01/robot-summer-toucans/blob/main/initial-design-strategy-brainstorm.md">Initial design and strategy brainstorm</a>
 - <a href="https://github.com/tarakong01/robot-summer-toucans/blob/main/prototyping.md">Prototyping</a>
