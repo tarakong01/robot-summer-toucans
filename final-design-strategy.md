@@ -1,1 +1,0 @@
-# Final design and strategy
